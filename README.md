@@ -6,9 +6,9 @@
 <br><br/>
 
 <center><b>Transistor-LED-Flasher-Circuit Images :</b></center>
-<br>
-<img src="https://github.com/S0undWav3s/2-Transistor-LED-Flasher-Circuit/blob/main/Media/IMG_5912.jpg" width=540 HEIGHT=360>
-<img src="https://github.com/S0undWav3s/2-Transistor-LED-Flasher-Circuit/blob/main/Media/IMG_5909.JPG" width=540 HEIGHT=360>
+<br>  
+<img src="https://github.com/S0undWav3s/2-Transistor-LED-Flasher-Circuit/blob/main/Media/IMG_5980.JPG" width=400 HEIGHT=540>
+<img src="https://github.com/S0undWav3s/2-Transistor-LED-Flasher-Circuit/blob/main/Media/IMG_5978.JPG" width=400 HEIGHT=540>
 <br>
 <center><b> Flasher Schemmatic: </b></center>
 <br/>
