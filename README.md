@@ -1,6 +1,5 @@
 # 2-Transistor-LED-Flasher-Circuit
 
-The LM386 is a power amplifier designed for use in low voltage consumer applications.
 <br>
 <center><b>Link to TikTok Video : https://www.tiktok.com/@s0und_w4v3s/video/7350251214879182113 </b></center>
 <br/>
